@@ -1,3 +1,4 @@
+#This is a test comment
 class SuperHero
   attr_reader :public_identity
 
